@@ -1,9 +1,9 @@
 # Guía Detallada Paso a Paso y Memoria de Práctica: Instalación de Odoo 17 sobre Ubuntu Server 24 LTS
 
 **Módulo:** UT03. Instalación y Configuración de Sistemas ERP-CRM  
-**Profesor:** Mario Hermoso Calero  
+**Profesor:** Enrique Nogales 
 **Instituto:** IES Alonso de Avellaneda  
-**Alumno(s):** Rubén Barrado Pastor (y compañeros de equipo)  
+**Alumno(s):** Rubén Barrado Pastor  
 **Curso:** 1º DAM  
 **Fecha:** 23/10/2026  
 
