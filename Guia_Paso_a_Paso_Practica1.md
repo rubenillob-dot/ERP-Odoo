@@ -63,7 +63,7 @@ Esta guía contiene la totalidad de los pasos necesarios, detallados comando por
 > * **Qué debe verse:** La ventana de configuración de VirtualBox abierta, mostrando la sección **Sistema** (con 2048 MB de RAM y 2 CPUs) o la sección **Red** (con el "Adaptador puente" seleccionado).  
 > * **Propósito:** Demostrar que se han respetado con precisión los requisitos técnicos del hardware asignado a la máquina virtual.  
 > 
-> ![Captura 1 - Configuración VirtualBox](imagenes/captura01_conf_virtualbox.png)
+> ![Captura 1 - Configuración VirtualBox](imagenes/Captura1.png)
 
 3. **Instalación del sistema operativo:**
    - Iniciar la máquina virtual y cargar la imagen ISO de **Ubuntu Server 24.04 LTS**.
@@ -87,7 +87,7 @@ Esta guía contiene la totalidad de los pasos necesarios, detallados comando por
 > * **Qué debe verse:** La pantalla del instalador de Ubuntu Server en el paso de "SSH Configuration" donde se vea claramente marcada la opción `[X] Install OpenSSH server` con el nombre de usuario `alumno`.  
 > * **Propósito:** Acreditar que se activó el servicio SSH oficial durante el despliegue del sistema sin añadir servicios extras innecesarios.  
 > 
-> ![Captura 2 - Instalación OpenSSH](imagenes/captura02_instalacion_ssh.png)
+> ![Captura 2 - Instalación OpenSSH](imagenes/Captura2.png)
 
 ---
 
@@ -110,7 +110,7 @@ Esta guía contiene la totalidad de los pasos necesarios, detallados comando por
 > * **Qué debe verse:** La consola de Ubuntu Server con el usuario `alumno@Ubuntu Server 24 LTS:~$`, habiendo ejecutado el comando `ip a` o `ip -br a`, donde se visualice con claridad la dirección IP asignada a la interfaz `enp0s3` junto al rango de máscara `/24`.  
 > * **Propósito:** Dejar constancia formal de la IP de la máquina para auditar que las conexiones posteriores apunten a este host.  
 > 
-> ![Captura 3 - Salida comando ip a](imagenes/captura03_ip_servidor.png)
+> ![Captura 3 - Salida comando ip a](imagenes/Captura3.png)
 
 ---
 
